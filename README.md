@@ -2,7 +2,7 @@
 
 > **Notes:**  
 > ⚠️ This workshop is a work-in-progress and is subject to frequent change.\
-> 🎓 This workshop reinforces self-paced learning from the [Basics Track](./github-basics.md) and prepares you for the intermediate github workshop.  
+> 🎓 This workshop reinforces self-paced learning from a curated [GitHub Basics](./github-basics.md) self-paced learning track and prepares you for the intermediate github workshop.  
 > 🛑 Follow best practices and GitHub Flow while completing the tasks.  
 > 📚 Refer to [GitHub Docs]([https://docs.github.com/](https://docs.github.com/en/get-started)), use Epi Coders channels, or discuss with your peers for guidance.
 
