@@ -153,16 +153,19 @@ This wasn’t just a fun workshop — you just built something powerful, reusabl
   - Static site generation (Quarto and GitHub Pages) make it all visible
 
 This exact pattern can power team playbooks, data portfolios, documentation hubs, and more. Here are some examples:
-- [PCH Informatics Hub](https://cuddly-adventure-n862rpv.pages.github.io/)
-- [RHINO R Package](https://refactored-potato-b0d33d79.pages.github.io/)
-- [GeoHUB Playbook for Developers](https://github.com/DOH-EPI-Coders/geohub-playbook)
+- [PCH Informatics Hub (private, not accesisble outside demo)](https://cuddly-adventure-n862rpv.pages.github.io/)
+- [RHINO R Package (private, not accessible outside demo)](https://refactored-potato-b0d33d79.pages.github.io/)
+- [GeoHUB Playbook for Developers (private, not accessible outside demo)](https://github.com/DOH-EPI-Coders/geohub-playbook)
 - [A Personal Solutions Library](https://doh-sre1303.github.io/Help-articles/)
 
 ### What's next?
-🧠 You now have the foundation to build shared resources and collaborate with clarity. In [Workshop 2: Migrating Existing Projects to GitHub](https://github.com/DOH-EPI-Coders/github-basics-workshop-2), you’ll take real (but safe) files from a simulated network drive project and learn how to:
+🧠 You now have the foundation to build shared resources and collaborate with clarity. [Placeholder for Intermediate GitHub Workshop]
+
+<!-- In [Workshop 2: Migrating Existing Projects to GitHub](https://github.com/DOH-EPI-Coders/github-basics-workshop-2), you’ll take real (but safe) files from a simulated network drive project and learn how to:
 - Reorganize and clean up messy project folders with intuitive structures 💾
 - Identify and protect sensitive data before committing it to GitHub 🔐
 - Create clean, portable, and team-ready GitHub repositories 🗂️
 - Use .gitignore, branches, and issues to manage code history and collaboration 🧰
 
 ⚙️ Workshop 2 is less about learning GitHub — and more about learning how to modernize, document, and protect the work your team already does every day. You’ll practice responsible migration, improve file hygiene, and get one step closer to mastering collaborative work with code and data.
+-->
