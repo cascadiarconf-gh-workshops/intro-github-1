@@ -8,7 +8,7 @@
 
 ## **Workshop Scenario**
 
-You and your team are contributing to a collaborative Cascadia R Conference cookbook called [**GutHub**](https://github.com/DOH-EPI-Coders/GutHub), where everyone shares their favorite recipes using [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github) in a GitHub repository. Your goal is to **submit a Markdown-formatted recipe**, [review contributions](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews) from others, and navigate through the [GitHub Flow](needs.link.here) to merge your changes.
+You and your team are contributing to a collaborative Cascadia R Conference cookbook called [**GutHub**](https://github.com/cascadiarconf-gh-workshops/GutHub), where everyone shares their favorite recipes using [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github) in a GitHub repository. Your goal is to **submit a Markdown-formatted recipe**, [review contributions](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews) from others, and navigate through the [GitHub Flow](needs.link.here) to merge your changes.
 
 To complete your task, you will:
 - Create a new branch and add your recipe in [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
@@ -29,7 +29,7 @@ You anticipate the following challenges:
 ## **Workshop Tasks**
 
 ### **Task 0. Setup**
-1. Navigate to the [**GutHub**](https://github.com/DOH-EPI-Coders/GutHub) repository on GitHub. We recommend keeping these instructions and the GutHub repo open in separate tabs.
+1. Navigate to the [**GutHub**](https://github.com/cascadiarconf-gh-workshops/GutHub) repository on GitHub. We recommend keeping these instructions and the GutHub repo open in separate tabs.
 2. **Create a new branch** for your contribution. Name it `yourinitials-recipe`.
   - Example: `ynh-brazilian-beans`
 3. **Ensure you are not working on `main` directly!** All changes should be in a separate branch.
@@ -40,7 +40,7 @@ You anticipate the following challenges:
 1. With your branch active, Navigate to the `recipes/` folder in the repository.
 2. Click the `Add file` button and name the file with your initials, the name of your dish, followed by the `.md` file extension e.g. `ynh-brazilian-beans.md`
   > ⚠️ A lot of people forget to add the `.md` part here!
-3. Copy the template found in the cookbook here: [GutHub Template Recipe ]()
+3. Copy the template found in the cookbook here: [GutHub Template Recipe ](needs.link.here)
 4. Format your recipe using Markdown:
   ```md
   ---
